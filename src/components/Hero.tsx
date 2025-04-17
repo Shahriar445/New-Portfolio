@@ -5,8 +5,7 @@ import SocialLink from "./hero/SocialLink";
 
 const Hero = () => {
   const roles = [
-    "Software Engineer",
-    "IoT Developer",
+    "Assistant Software Engineer",
     "Full Stack Developer",
     "React Specialist",
   ];
@@ -25,8 +24,8 @@ const Hero = () => {
             <TypewriterText texts={roles} />
           </h2>
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-2xl mx-auto mb-12 animate-slide-up">
-            Hi, I'm Shahriar Haque, a Software Engineer (Intern) at Ha-Meem
-            Group. I specialize in ASP.NET Core Web API, React JS, and IoT
+            Hi, I'm Shahriar Haque, Assistant Software Engineer at Ha-Meem
+            Group. I specialize in ASP.NET Core Web API, React JS, SQL and IoT
             systems, with a passion for innovative software development.
           </p>
           <div className="flex justify-center space-x-6">
